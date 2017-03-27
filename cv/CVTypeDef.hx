@@ -27,7 +27,7 @@ typedef Basic = {
 }
 typedef Location = {
     var address: String;
-    var postcode: String;
+    var postalCode: String;
     var city: String;
     var countryCode: String;
     var region: String;
