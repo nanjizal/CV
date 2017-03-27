@@ -1,0 +1,10 @@
+# mac specific, last two line will need adjusting for pc and linux
+-js test.js
+-lib datetime;
+-cp src 
+-main cv.CVjsonTest
+-D js-flatten 
+-dce full
+--next
+-cmd echo '<!DOCTYPE html><meta charset="UTF-8"><html><body><script src="test.js"></script></body></html>' >index.html
+-cmd open index.html
