@@ -1,0 +1,18 @@
+cv Json schema
+https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json
+https://github.com/kelyvin/jsonresume-theme-caffeine
+https://github.com/jsonresume/resume-schema/blob/v1.0.0/examples/valid/complete.json
+
+Nadako schema parsing details
+https://gist.github.com/nadako/6503134
+https://gist.github.com/nadako/9081608
+http://nadako.github.io/rants/posts/2014-02-19_haxe-macro-json-parser.html
+
+Underscorediscovery links on macros
+https://notes.underscorediscovery.com/haxe-compile-time-macros/
+
+Gama11 suggestions on macro printing.
+haxe.macro.Printer
+https://gi
+thub.com/vshaxe/haxe-hxparser/blob/master/src/util/GenWalker.hx#L46-L54
+-D dump=pretty
